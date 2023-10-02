@@ -69,13 +69,13 @@ Download and Install [NodeJS](https://nodejs.org/en/download) >= 18.15.0
 
 Flowise has 3 different modules in a single mono repository.
 
--   `server`: Node backend to serve API logics
--   `ui`: React frontend
--   `components`: Langchain components
+- `server`: Node backend to serve API logics
+- `ui`: React frontend
+- `components`: Langchain components
 
 ### Prerequisite
 
--   Install [Yarn v1](https://classic.yarnpkg.com/en/docs/install)
+- Install [Yarn v1](https://classic.yarnpkg.com/en/docs/install)
     ```bash
     npm i -g yarn
     ```
@@ -129,7 +129,6 @@ Flowise has 3 different modules in a single mono repository.
 ## 🔒 Authentication
 
 To enable app level authentication, add `FLOWISE_USERNAME` and `FLOWISE_PASSWORD` to the `.env` file in `packages/server`:
-
 ```
 FLOWISE_USERNAME=user
 FLOWISE_PASSWORD=1234
@@ -164,25 +163,6 @@ Flowise support different environment variables to configure your instance. You 
 ### [DigitalOcean](https://docs.flowiseai.com/deployment/digital-ocean)
 
 ### [GCP](https://docs.flowiseai.com/deployment/gcp)
-
-## 💻 Cloud Hosted
-
-Coming soon
-
-## 🙋 Support
-
-Feel free to ask any questions, raise problems, and request new features in [discussion](https://github.com/FlowiseAI/Flowise/discussions)
-
-## 🙌 Contributing
-
-Thanks go to these awesome contributors
-
-<a href="https://github.com/FlowiseAI/Flowise/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=FlowiseAI/Flowise" />
-</a>
-
-See [contributing guide](CONTRIBUTING.md). Reach out to us at [Discord](https://discord.gg/jbaHfsRVBW) if you have any questions or issues.
-[![Star History Chart](https://api.star-history.com/svg?repos=FlowiseAI/Flowise&type=Timeline)](https://star-history.com/#FlowiseAI/Flowise&Date)
 
 ## 📄 License
 
