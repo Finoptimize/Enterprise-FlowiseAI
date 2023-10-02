@@ -129,7 +129,8 @@ Flowise has 3 different modules in a single mono repository.
 ## 🔒 Authentication
 
 To enable app level authentication, add `FLOWISE_USERNAME` and `FLOWISE_PASSWORD` to the `.env` file in `packages/server`:
-```
+
+```bash
 FLOWISE_USERNAME=user
 FLOWISE_PASSWORD=1234
 ```
