@@ -168,3 +168,5 @@ Flowise support different environment variables to configure your instance. You 
 ## 📄 License
 
 Source code in this repository is made available under the [Apache License Version 2.0](LICENSE.md).
+
+Connected to GitHub Projects
